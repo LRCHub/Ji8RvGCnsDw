@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "スターライト・ヴァルキリー",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-03-11T06:25:02.335851Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スターライト・ヴァルキリー",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/01_スターライト・ヴァルキリー_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スターライト・ヴァルキリー",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_スターライト・ヴァルキリー_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
